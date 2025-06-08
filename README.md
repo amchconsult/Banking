@@ -50,8 +50,9 @@ You will see a menu like:
 2. Read Entries
 3. Update Entry
 4. Delete Entry
-5. Exit
-Select an action [1-5]:
+5. Report
+6. Exit
+Select an action [1-6]:
 ```
 
 Enter the number corresponding to the action you want to perform.
