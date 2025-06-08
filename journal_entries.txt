@@ -1,0 +1,5 @@
+{"id":1,"journal_date":"2025-05-26","account_id":"100","account_name":"Bank","amount_debt":0.0,"amount_credit":1000.0,"amount_total":1000.0,"reconciled":false,"isdeleted":"no"}
+{"id":2,"journal_date":"2025-05-26","account_id":"201","account_name":"Expense","amount_debt":300.0,"amount_credit":0.0,"amount_total":300.0,"reconciled":true,"isdeleted":"no"}
+{"id":3,"journal_date":"2025-05-26","account_id":"202","account_name":"Edenor","amount_debt":58.5,"amount_credit":0.0,"amount_total":58.5,"reconciled":false,"isdeleted":"no"}
+{"id":4,"journal_date":"2025-05-26","account_id":"203","account_name":"Naturgy","amount_debt":35.0,"amount_credit":0.0,"amount_total":35.0,"reconciled":false,"isdeleted":"yes"}
+{"id":5,"journal_date":"2025-05-26","account_id":"204","account_name":"Rent","amount_debt":450.0,"amount_credit":0.0,"amount_total":450.0,"reconciled":true,"isdeleted":"no"}
